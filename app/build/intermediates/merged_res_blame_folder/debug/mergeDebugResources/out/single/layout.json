@@ -1,42 +1,34 @@
 [
     {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/activity_home.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/activity_home.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/top_headline_item_layout.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/top_headline_item_layout.xml"
     },
     {
-        "merged": "me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/fragment_home.xml",
-        "source": "me.amitshekhar.mvvm.app-main-55:/layout/fragment_home.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/activity_splash_screen.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/activity_splash_screen.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/activity_splash_screen.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/fragment_home.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/fragment_home.xml"
     },
     {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/activity_top_headline.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/activity_top_headline.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/layout_header.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/layout_header.xml"
     },
     {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/fragment_home.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/fragment_home.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/fragment_search.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/fragment_search.xml"
     },
     {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/top_headline_item_layout.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/top_headline_item_layout.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/fragment_your_library.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/fragment_your_library.xml"
     },
     {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/fragment_search.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/fragment_search.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/activity_home.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/activity_home.xml"
     },
     {
-        "merged": "me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/activity_home.xml",
-        "source": "me.amitshekhar.mvvm.app-main-55:/layout/activity_home.xml"
-    },
-    {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/layout_header.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/layout_header.xml"
-    },
-    {
-        "merged": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-mergeDebugResources-52:/layout/fragment_your_library.xml",
-        "source": "/home/nitheash/.gradle/daemon/8.14.3/me.amitshekhar.mvvm.app-main-55:/layout/fragment_your_library.xml"
+        "merged": "com.thedevbot.mvvm2.app-mergeDebugResources-52:/layout/activity_top_headline.xml",
+        "source": "com.thedevbot.mvvm2.app-main-55:/layout/activity_top_headline.xml"
     }
 ]

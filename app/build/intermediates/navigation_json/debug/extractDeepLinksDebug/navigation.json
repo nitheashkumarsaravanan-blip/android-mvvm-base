@@ -1,16 +1,16 @@
 [
   {
+    "name": "nav_home",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
     "name": "nav_search",
     "navigationXmlIds": [],
     "deepLinks": []
   },
   {
     "name": "nav_your_library",
-    "navigationXmlIds": [],
-    "deepLinks": []
-  },
-  {
-    "name": "nav_home",
     "navigationXmlIds": [],
     "deepLinks": []
   },

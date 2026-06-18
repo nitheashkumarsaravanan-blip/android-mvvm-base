@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MVVM-Architecture-Android"
+rootProject.name = "android-mvvm-base-setup"
 include(":app")

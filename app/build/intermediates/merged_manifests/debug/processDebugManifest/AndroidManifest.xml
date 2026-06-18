@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="me.amitshekhar.mvvm"
+    package="com.thedevbot.mvvm2"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -11,13 +11,13 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <permission
-        android:name="me.amitshekhar.mvvm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.thedevbot.mvvm2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="me.amitshekhar.mvvm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.thedevbot.mvvm2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
-        android:name="me.amitshekhar.mvvm.MVVMApplication"
+        android:name="com.thedevbot.mvvm2.MVVMApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -30,10 +30,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MVVMArchitectureAndroid" >
         <activity
-            android:name="me.amitshekhar.mvvm.ui.home.HomeActivity"
+            android:name="com.thedevbot.mvvm2.ui.home.HomeActivity"
             android:exported="false" />
         <activity
-            android:name="me.amitshekhar.mvvm.ui.splash.SplashScreenActivity"
+            android:name="com.thedevbot.mvvm2.ui.splash.SplashScreenActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,12 +42,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="me.amitshekhar.mvvm.ui.topheadline.TopHeadlineActivity"
+            android:name="com.thedevbot.mvvm2.ui.topheadline.TopHeadlineActivity"
             android:exported="false" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="me.amitshekhar.mvvm.androidx-startup"
+            android:authorities="com.thedevbot.mvvm2.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

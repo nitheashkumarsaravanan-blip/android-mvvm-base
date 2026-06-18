@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "me.amitshekhar.mvvm.app-mergeDebugResources-51:/values-nb/values-nb.xml",
+            "outputFile": "com.thedevbot.mvvm2.app-mergeDebugResources-51:/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "/home/nitheash/.gradle/caches/8.14.3/transforms/bf40ae0a4f41443aa23ca0ae53aecdee/transformed/navigation-ui-2.5.0-rc01/res/values-nb/values-nb.xml",

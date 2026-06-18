@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/yourLibraryFragment"
-        android:name="me.amitshekhar.mvvm.ui.home.YourLibraryFragment"
+        android:name="com.thedevbot.mvvm2.ui.home.YourLibraryFragment"
         android:label="fragment_your_library"
         tools:layout="@layout/fragment_your_library" />
 </navigation>

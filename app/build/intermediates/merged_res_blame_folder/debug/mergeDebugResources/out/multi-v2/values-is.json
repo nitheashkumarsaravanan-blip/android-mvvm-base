@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "me.amitshekhar.mvvm.app-mergeDebugResources-51:/values-is/values-is.xml",
+            "outputFile": "com.thedevbot.mvvm2.app-mergeDebugResources-51:/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/res/values-is/values-is.xml",

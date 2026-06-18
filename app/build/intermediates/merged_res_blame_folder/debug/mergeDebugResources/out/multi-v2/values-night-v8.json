@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "me.amitshekhar.mvvm.app-mergeDebugResources-51:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.thedevbot.mvvm2.app-mergeDebugResources-51:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/res/values-night/themes.xml",
+                    "source": "/home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

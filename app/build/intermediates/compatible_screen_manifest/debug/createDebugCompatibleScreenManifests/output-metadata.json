@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "me.amitshekhar.mvvm",
+  "applicationId": "com.thedevbot.mvvm2",
   "variantName": "debug",
   "elements": []
 }

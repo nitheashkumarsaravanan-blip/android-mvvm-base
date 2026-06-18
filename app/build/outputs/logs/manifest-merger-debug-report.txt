@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.databinding:viewbinding:8.11.1] /home/nitheash/.gradle/caches/8.14.3/transforms/4e89f38b2cd848751e3041f8617eb21c/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/addf5cf4aee4443ad7fddb5ca988b72d/transformed/navigation-ui-ktx-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/bf40ae0a4f41443aa23ca0ae53aecdee/transformed/navigation-ui-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
@@ -75,22 +75,22 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/n
 MERGED from [androidx.print:print:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/0f72922692f0265dd6649533dc05532b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a37c681b4fd4c92bb9660aef41102ec1/transformed/jetified-runtime-annotation/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:7:5-33:19
-INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:7:5-33:19
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:7:5-33:19
+INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:7:5-33:19
 MERGED from [com.google.android.material:material:1.12.0] /home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/nitheash/.gradle/caches/8.14.3/transforms/00c084abae4e131071adba731a5da90a/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
@@ -112,61 +112,61 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.g
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:11:9-54
 	android:roundIcon
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:14:9-54
 	tools:targetApi
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:17:9-29
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:16:9-61
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:16:9-61
 	android:dataExtractionRules
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:10:9-65
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:10:9-65
 	android:name
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:8:9-40
-activity#me.amitshekhar.mvvm.ui.home.HomeActivity
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:18:9-20:40
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:8:9-40
+activity#com.thedevbot.mvvm2.ui.home.HomeActivity
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:20:13-37
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:19:13-49
-activity#me.amitshekhar.mvvm.ui.splash.SplashScreenActivity
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:21:9-29:20
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:19:13-49
+activity#com.thedevbot.mvvm2.ui.splash.SplashScreenActivity
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:21:9-29:20
 	android:exported
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:23:13-36
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:22:13-59
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:22:13-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:25:17-69
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:25:25-66
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:27:17-77
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:27:27-74
-activity#me.amitshekhar.mvvm.ui.topheadline.TopHeadlineActivity
-ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:30:9-32:40
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.thedevbot.mvvm2.ui.topheadline.TopHeadlineActivity
+ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:30:9-32:40
 	android:exported
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:32:13-37
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:31:13-63
+		ADDED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml:31:13-63
 uses-sdk
-INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
-INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
+INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.11.1] /home/nitheash/.gradle/caches/8.14.3/transforms/4e89f38b2cd848751e3041f8617eb21c/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.11.1] /home/nitheash/.gradle/caches/8.14.3/transforms/4e89f38b2cd848751e3041f8617eb21c/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/addf5cf4aee4443ad7fddb5ca988b72d/transformed/navigation-ui-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
@@ -308,9 +308,9 @@ MERGED from [androidx.print:print:1.0.0] /home/nitheash/.gradle/caches/8.14.3/tr
 MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a37c681b4fd4c92bb9660aef41102ec1/transformed/jetified-runtime-annotation/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a37c681b4fd4c92bb9660aef41102ec1/transformed/jetified-runtime-annotation/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheash/AndroidStudioProjects/android-mvvm-base-main/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:24:9-32:20
@@ -351,7 +351,7 @@ ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/tran
 		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
-permission#me.amitshekhar.mvvm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.thedevbot.mvvm2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
@@ -361,7 +361,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
-uses-permission#me.amitshekhar.mvvm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.thedevbot.mvvm2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:22-94

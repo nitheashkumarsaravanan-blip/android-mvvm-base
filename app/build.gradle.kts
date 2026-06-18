@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "me.amitshekhar.mvvm"
+    namespace = "com.thedevbot.mvvm2"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "me.amitshekhar.mvvm"
+        applicationId = "com.thedevbot.mvvm2"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
