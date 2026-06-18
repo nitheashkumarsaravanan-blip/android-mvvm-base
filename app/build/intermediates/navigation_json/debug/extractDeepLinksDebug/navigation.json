@@ -1,0 +1,26 @@
+[
+  {
+    "name": "nav_search",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_your_library",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_home",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [
+      "nav_home",
+      "nav_search",
+      "nav_your_library"
+    ],
+    "deepLinks": []
+  }
+]

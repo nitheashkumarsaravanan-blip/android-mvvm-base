@@ -1,0 +1,415 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.databinding:viewbinding:8.11.1] /home/nitheash/.gradle/caches/8.14.3/transforms/4e89f38b2cd848751e3041f8617eb21c/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/addf5cf4aee4443ad7fddb5ca988b72d/transformed/navigation-ui-ktx-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/bf40ae0a4f41443aa23ca0ae53aecdee/transformed/navigation-ui-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.12.0] /home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/nitheash/.gradle/caches/8.14.3/transforms/00c084abae4e131071adba731a5da90a/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /home/nitheash/.gradle/caches/8.14.3/transforms/424bd0b6913192e366f4aacd3356e5a8/transformed/jetified-appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /home/nitheash/.gradle/caches/8.14.3/transforms/739589727cc79c8a81a3f684afd496a9/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/eda66916c7be98cd7712284f915f5ba8/transformed/jetified-glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c4fd8a093cf2f4ecd59434f62fe81c44/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/dfcdf3174c40aadc72d39107ced3c95b/transformed/recyclerview-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/nitheash/.gradle/caches/8.14.3/transforms/cd61cbe742501e469ca807663ab7d1a1/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/5baa59f6d1eaafc09ae2ca1266c12368/transformed/navigation-fragment-ktx-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/e0748a0b5da150b4779508e35264598d/transformed/navigation-fragment-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/bf9d64421bfaea029f517112810f6910/transformed/jetified-fragment-ktx-1.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/nitheash/.gradle/caches/8.14.3/transforms/484ec13282018a7c0d992fc0d06ea258/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/47482a39049d8bea534a1d9125e14232/transformed/navigation-runtime-ktx-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/c1d5580fdd9be7e6a900ec55f13608f9/transformed/navigation-runtime-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.12.4] /home/nitheash/.gradle/caches/8.14.3/transforms/a57327629abdda67aaab2a552cbdd1a3/transformed/jetified-activity-ktx-1.12.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.12.4] /home/nitheash/.gradle/caches/8.14.3/transforms/46514925864cfab92246618a277ea62a/transformed/jetified-activity-1.12.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.8.0] /home/nitheash/.gradle/caches/8.14.3/transforms/58e0c3b9acb5eb38217d075704a5c732/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a7845f4d14bca90c641a59d2f3905fc0/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/98d25f91d5b184779891c74cd75629d3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/f20da5d61ea0ab1090774d87c758cb9d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/b237c70b94c6923cdfde85935899e8a9/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/nitheash/.gradle/caches/8.14.3/transforms/5743645fb75abb337b5628c4cb96b69a/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/e8aae1e2ae6d64cfb0cfa1afd4b71e4e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/88ee60470dbc9afb05a0a8c8ca0c1a3a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/599e4583e1a6af383a3f1df9dcb093f8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/aba46abbc5523cabf215b48bd499e426/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/b42a00083af6a38b1b9ba413d79ac6f6/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/987fb8144596bfbcc2e3ad8385ee9136/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/ab564a75c887cc47206d9ad68ba31129/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c128741745372e44970812b08944d3cf/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/4036f0cfc8b68bd64448b5cb37110afe/transformed/lifecycle-runtime-2.9.2/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/82f2858da50175c25b47841d6459bf5f/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/c7e819cd858654c6dbbf5b07ee6ec025/transformed/jetified-lifecycle-livedata-core-ktx-2.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/3b5b79144f3b0ef906d8dd89f3510402/transformed/navigation-common-ktx-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/7ff12a2751bfb9274b9621baf91e4cd3/transformed/navigation-common-2.5.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] /home/nitheash/.gradle/caches/8.14.3/transforms/a98ebd51975a0bb2eef598fa8ea1177c/transformed/jetified-savedstate-ktx-1.3.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] /home/nitheash/.gradle/caches/8.14.3/transforms/8264543fdaedbb61fcb7a9a777ffb8d9/transformed/jetified-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/494a23c2b06a58ef5c6d3f472f023362/transformed/lifecycle-viewmodel-2.9.2/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/d601a0681e6410049a5def9ed32382d9/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/54087e2890f145071589bf28d0008182/transformed/lifecycle-livedata-core-2.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/17287c8a669f88cb8121f91b488096c7/transformed/jetified-lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/ed8083383b1b08fa3da02f8cbc6f3303/transformed/jetified-lifecycle-service-2.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/a00f29c2828546f472ab885dcb63642f/transformed/lifecycle-livedata-2.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/f9e738cbe7f568c002444a314acb7b3d/transformed/jetified-lifecycle-viewmodel-ktx-2.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/9bbfa412e1bd6ee3523e642c9dd67281/transformed/jetified-lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/276d9709c69c008fc461b80532445972/transformed/jetified-core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] /home/nitheash/.gradle/caches/8.14.3/transforms/fb67a3d0f5347c289b4bea9bc8438953/transformed/jetified-navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/5b5272dca37ff9edbb883eb3a6811adb/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/nitheash/.gradle/caches/8.14.3/transforms/953022d5c004aaa7cd80fc9563c6f61c/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/449f624d8c98e68506a3f9a49718ebd6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7248712d0f44e564cbddbd7c986a218c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/dff3357a3730a203f8f6bf928e9c3feb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c00ee856f6a8144b2a952e59a9056bbf/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/nitheash/.gradle/caches/8.14.3/transforms/2c48b03d84b167ed5dc04739499db136/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d24c1e83a715b0cfaa6306bff521b0bd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/bfdb4586ab9ef5c12816d5c3f20d7067/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/87c1ba1c98134b840d9e5c54514b62dc/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/8518d49722af03c60d43829e6b726fb3/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/ec605d09d1906151071f62fb315fe6b4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/0f72922692f0265dd6649533dc05532b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a37c681b4fd4c92bb9660aef41102ec1/transformed/jetified-runtime-annotation/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:7:5-33:19
+INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:7:5-33:19
+MERGED from [com.google.android.material:material:1.12.0] /home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/nitheash/.gradle/caches/8.14.3/transforms/00c084abae4e131071adba731a5da90a/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/nitheash/.gradle/caches/8.14.3/transforms/00c084abae4e131071adba731a5da90a/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c4fd8a093cf2f4ecd59434f62fe81c44/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c4fd8a093cf2f4ecd59434f62fe81c44/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/449f624d8c98e68506a3f9a49718ebd6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/449f624d8c98e68506a3f9a49718ebd6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:16:9-61
+	android:dataExtractionRules
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:8:9-40
+activity#me.amitshekhar.mvvm.ui.home.HomeActivity
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:19:13-49
+activity#me.amitshekhar.mvvm.ui.splash.SplashScreenActivity
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:22:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:27:27-74
+activity#me.amitshekhar.mvvm.ui.topheadline.TopHeadlineActivity
+ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml:31:13-63
+uses-sdk
+INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.11.1] /home/nitheash/.gradle/caches/8.14.3/transforms/4e89f38b2cd848751e3041f8617eb21c/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.11.1] /home/nitheash/.gradle/caches/8.14.3/transforms/4e89f38b2cd848751e3041f8617eb21c/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/addf5cf4aee4443ad7fddb5ca988b72d/transformed/navigation-ui-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/addf5cf4aee4443ad7fddb5ca988b72d/transformed/navigation-ui-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/bf40ae0a4f41443aa23ca0ae53aecdee/transformed/navigation-ui-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/bf40ae0a4f41443aa23ca0ae53aecdee/transformed/navigation-ui-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.12.0] /home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/nitheash/.gradle/caches/8.14.3/transforms/89daf029869c748d0ab62cbaf233b3d6/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/nitheash/.gradle/caches/8.14.3/transforms/00c084abae4e131071adba731a5da90a/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /home/nitheash/.gradle/caches/8.14.3/transforms/00c084abae4e131071adba731a5da90a/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /home/nitheash/.gradle/caches/8.14.3/transforms/424bd0b6913192e366f4aacd3356e5a8/transformed/jetified-appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /home/nitheash/.gradle/caches/8.14.3/transforms/424bd0b6913192e366f4aacd3356e5a8/transformed/jetified-appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /home/nitheash/.gradle/caches/8.14.3/transforms/739589727cc79c8a81a3f684afd496a9/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /home/nitheash/.gradle/caches/8.14.3/transforms/739589727cc79c8a81a3f684afd496a9/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/eda66916c7be98cd7712284f915f5ba8/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/eda66916c7be98cd7712284f915f5ba8/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c4fd8a093cf2f4ecd59434f62fe81c44/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c4fd8a093cf2f4ecd59434f62fe81c44/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/dfcdf3174c40aadc72d39107ced3c95b/transformed/recyclerview-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/dfcdf3174c40aadc72d39107ced3c95b/transformed/recyclerview-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/nitheash/.gradle/caches/8.14.3/transforms/cd61cbe742501e469ca807663ab7d1a1/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/nitheash/.gradle/caches/8.14.3/transforms/cd61cbe742501e469ca807663ab7d1a1/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/5baa59f6d1eaafc09ae2ca1266c12368/transformed/navigation-fragment-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/5baa59f6d1eaafc09ae2ca1266c12368/transformed/navigation-fragment-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/e0748a0b5da150b4779508e35264598d/transformed/navigation-fragment-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/e0748a0b5da150b4779508e35264598d/transformed/navigation-fragment-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/bf9d64421bfaea029f517112810f6910/transformed/jetified-fragment-ktx-1.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/bf9d64421bfaea029f517112810f6910/transformed/jetified-fragment-ktx-1.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/nitheash/.gradle/caches/8.14.3/transforms/484ec13282018a7c0d992fc0d06ea258/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/nitheash/.gradle/caches/8.14.3/transforms/484ec13282018a7c0d992fc0d06ea258/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/47482a39049d8bea534a1d9125e14232/transformed/navigation-runtime-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/47482a39049d8bea534a1d9125e14232/transformed/navigation-runtime-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/c1d5580fdd9be7e6a900ec55f13608f9/transformed/navigation-runtime-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/c1d5580fdd9be7e6a900ec55f13608f9/transformed/navigation-runtime-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.12.4] /home/nitheash/.gradle/caches/8.14.3/transforms/a57327629abdda67aaab2a552cbdd1a3/transformed/jetified-activity-ktx-1.12.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.12.4] /home/nitheash/.gradle/caches/8.14.3/transforms/a57327629abdda67aaab2a552cbdd1a3/transformed/jetified-activity-ktx-1.12.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.12.4] /home/nitheash/.gradle/caches/8.14.3/transforms/46514925864cfab92246618a277ea62a/transformed/jetified-activity-1.12.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.12.4] /home/nitheash/.gradle/caches/8.14.3/transforms/46514925864cfab92246618a277ea62a/transformed/jetified-activity-1.12.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.8.0] /home/nitheash/.gradle/caches/8.14.3/transforms/58e0c3b9acb5eb38217d075704a5c732/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /home/nitheash/.gradle/caches/8.14.3/transforms/58e0c3b9acb5eb38217d075704a5c732/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a7845f4d14bca90c641a59d2f3905fc0/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a7845f4d14bca90c641a59d2f3905fc0/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/98d25f91d5b184779891c74cd75629d3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/98d25f91d5b184779891c74cd75629d3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/f20da5d61ea0ab1090774d87c758cb9d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/f20da5d61ea0ab1090774d87c758cb9d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/b237c70b94c6923cdfde85935899e8a9/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/b237c70b94c6923cdfde85935899e8a9/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/nitheash/.gradle/caches/8.14.3/transforms/5743645fb75abb337b5628c4cb96b69a/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/nitheash/.gradle/caches/8.14.3/transforms/5743645fb75abb337b5628c4cb96b69a/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/e8aae1e2ae6d64cfb0cfa1afd4b71e4e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/e8aae1e2ae6d64cfb0cfa1afd4b71e4e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/88ee60470dbc9afb05a0a8c8ca0c1a3a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/88ee60470dbc9afb05a0a8c8ca0c1a3a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/599e4583e1a6af383a3f1df9dcb093f8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/599e4583e1a6af383a3f1df9dcb093f8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/aba46abbc5523cabf215b48bd499e426/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/aba46abbc5523cabf215b48bd499e426/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/b42a00083af6a38b1b9ba413d79ac6f6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/b42a00083af6a38b1b9ba413d79ac6f6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/987fb8144596bfbcc2e3ad8385ee9136/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/987fb8144596bfbcc2e3ad8385ee9136/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/ab564a75c887cc47206d9ad68ba31129/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/nitheash/.gradle/caches/8.14.3/transforms/ab564a75c887cc47206d9ad68ba31129/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c128741745372e44970812b08944d3cf/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c128741745372e44970812b08944d3cf/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/4036f0cfc8b68bd64448b5cb37110afe/transformed/lifecycle-runtime-2.9.2/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/4036f0cfc8b68bd64448b5cb37110afe/transformed/lifecycle-runtime-2.9.2/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/82f2858da50175c25b47841d6459bf5f/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/82f2858da50175c25b47841d6459bf5f/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/c7e819cd858654c6dbbf5b07ee6ec025/transformed/jetified-lifecycle-livedata-core-ktx-2.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/c7e819cd858654c6dbbf5b07ee6ec025/transformed/jetified-lifecycle-livedata-core-ktx-2.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/3b5b79144f3b0ef906d8dd89f3510402/transformed/navigation-common-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/3b5b79144f3b0ef906d8dd89f3510402/transformed/navigation-common-ktx-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/7ff12a2751bfb9274b9621baf91e4cd3/transformed/navigation-common-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0-rc01] /home/nitheash/.gradle/caches/8.14.3/transforms/7ff12a2751bfb9274b9621baf91e4cd3/transformed/navigation-common-2.5.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] /home/nitheash/.gradle/caches/8.14.3/transforms/a98ebd51975a0bb2eef598fa8ea1177c/transformed/jetified-savedstate-ktx-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] /home/nitheash/.gradle/caches/8.14.3/transforms/a98ebd51975a0bb2eef598fa8ea1177c/transformed/jetified-savedstate-ktx-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] /home/nitheash/.gradle/caches/8.14.3/transforms/8264543fdaedbb61fcb7a9a777ffb8d9/transformed/jetified-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] /home/nitheash/.gradle/caches/8.14.3/transforms/8264543fdaedbb61fcb7a9a777ffb8d9/transformed/jetified-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/494a23c2b06a58ef5c6d3f472f023362/transformed/lifecycle-viewmodel-2.9.2/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/494a23c2b06a58ef5c6d3f472f023362/transformed/lifecycle-viewmodel-2.9.2/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/d601a0681e6410049a5def9ed32382d9/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/d601a0681e6410049a5def9ed32382d9/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/54087e2890f145071589bf28d0008182/transformed/lifecycle-livedata-core-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/54087e2890f145071589bf28d0008182/transformed/lifecycle-livedata-core-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/17287c8a669f88cb8121f91b488096c7/transformed/jetified-lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/17287c8a669f88cb8121f91b488096c7/transformed/jetified-lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/ed8083383b1b08fa3da02f8cbc6f3303/transformed/jetified-lifecycle-service-2.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/ed8083383b1b08fa3da02f8cbc6f3303/transformed/jetified-lifecycle-service-2.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/a00f29c2828546f472ab885dcb63642f/transformed/lifecycle-livedata-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/a00f29c2828546f472ab885dcb63642f/transformed/lifecycle-livedata-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/f9e738cbe7f568c002444a314acb7b3d/transformed/jetified-lifecycle-viewmodel-ktx-2.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/f9e738cbe7f568c002444a314acb7b3d/transformed/jetified-lifecycle-viewmodel-ktx-2.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/9bbfa412e1bd6ee3523e642c9dd67281/transformed/jetified-lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/9bbfa412e1bd6ee3523e642c9dd67281/transformed/jetified-lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/276d9709c69c008fc461b80532445972/transformed/jetified-core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/276d9709c69c008fc461b80532445972/transformed/jetified-core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] /home/nitheash/.gradle/caches/8.14.3/transforms/fb67a3d0f5347c289b4bea9bc8438953/transformed/jetified-navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] /home/nitheash/.gradle/caches/8.14.3/transforms/fb67a3d0f5347c289b4bea9bc8438953/transformed/jetified-navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/5b5272dca37ff9edbb883eb3a6811adb/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/5b5272dca37ff9edbb883eb3a6811adb/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/nitheash/.gradle/caches/8.14.3/transforms/953022d5c004aaa7cd80fc9563c6f61c/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/nitheash/.gradle/caches/8.14.3/transforms/953022d5c004aaa7cd80fc9563c6f61c/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/449f624d8c98e68506a3f9a49718ebd6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/449f624d8c98e68506a3f9a49718ebd6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7248712d0f44e564cbddbd7c986a218c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7248712d0f44e564cbddbd7c986a218c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/dff3357a3730a203f8f6bf928e9c3feb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/dff3357a3730a203f8f6bf928e9c3feb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c00ee856f6a8144b2a952e59a9056bbf/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/c00ee856f6a8144b2a952e59a9056bbf/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/nitheash/.gradle/caches/8.14.3/transforms/2c48b03d84b167ed5dc04739499db136/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/nitheash/.gradle/caches/8.14.3/transforms/2c48b03d84b167ed5dc04739499db136/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d24c1e83a715b0cfaa6306bff521b0bd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d24c1e83a715b0cfaa6306bff521b0bd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/bfdb4586ab9ef5c12816d5c3f20d7067/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/bfdb4586ab9ef5c12816d5c3f20d7067/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/87c1ba1c98134b840d9e5c54514b62dc/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/nitheash/.gradle/caches/8.14.3/transforms/87c1ba1c98134b840d9e5c54514b62dc/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/8518d49722af03c60d43829e6b726fb3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/8518d49722af03c60d43829e6b726fb3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/ec605d09d1906151071f62fb315fe6b4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/ec605d09d1906151071f62fb315fe6b4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/0f72922692f0265dd6649533dc05532b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/0f72922692f0265dd6649533dc05532b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a37c681b4fd4c92bb9660aef41102ec1/transformed/jetified-runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/nitheash/.gradle/caches/8.14.3/transforms/a37c681b4fd4c92bb9660aef41102ec1/transformed/jetified-runtime-annotation/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nitheash/AndroidStudioProjects/BaseSetup/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nitheash/.gradle/caches/8.14.3/transforms/54dae8b83e52a1aadb38e09397e1e993/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/nitheash/.gradle/caches/8.14.3/transforms/d95aae5e1ab4c570a2cf1c5e58cb2153/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/nitheash/.gradle/caches/8.14.3/transforms/7fe83a66175c1f72cb85ba6cb1178929/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#me.amitshekhar.mvvm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#me.amitshekhar.mvvm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/nitheash/.gradle/caches/8.14.3/transforms/fe2accc77e8ae7725c1bf2013710ecb6/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.2] /home/nitheash/.gradle/caches/8.14.3/transforms/684fe74203f4175b2607bf088dbe7d7a/transformed/jetified-lifecycle-process-2.9.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/nitheash/.gradle/caches/8.14.3/transforms/72da8ee798296d92123b91d7bbbec0be/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

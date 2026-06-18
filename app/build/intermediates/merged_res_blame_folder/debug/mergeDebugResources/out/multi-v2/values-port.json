@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "me.amitshekhar.mvvm.app-mergeDebugResources-51:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/nitheash/.gradle/caches/8.14.3/transforms/739589727cc79c8a81a3f684afd496a9/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
